@@ -27,7 +27,10 @@
 - ChoiceTheorem's Overhauled Village <https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village>
 - Better Villages - Fabric <https://www.curseforge.com/minecraft/mc-mods/better-village-fabric>
 - Structory <https://www.curseforge.com/minecraft/mc-mods/structory>
-Towns and Towers <https://www.curseforge.com/minecraft/mc-mods/towns-and-towers>
+- Towns and Towers <https://www.curseforge.com/minecraft/mc-mods/towns-and-towers>
+- Enhanced Celestials <https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials>
+- Enchantment Lore Forge <https://www.curseforge.com/minecraft/mc-mods/enchantment-lore-forge>
+- Explorer's Compass <https://www.curseforge.com/minecraft/mc-mods/explorers-compass>
 
 ## Profiles to review
 
